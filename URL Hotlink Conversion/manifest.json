@@ -1,11 +1,11 @@
 {
   "name": "URL Hotlink Conversion",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 2,
-  "description": "Attempts to directly link you to the image, currently supports Imgur & QuickMeme",
+  "description": "Attempts to directly link you to the image, currently supports Imgur & QuickMeme & MemeGenerator",
   "background": { "scripts": ["convert.js"] },
   "permissions": [
     "webRequest", "webRequestBlocking",
-    "http://imgur.com/", "http://www.quickmeme.com/"
+    "http://imgur.com/", "http://www.quickmeme.com/", "http://memegenerator.net/", "http://memecrunch.com/"
   ]
 }

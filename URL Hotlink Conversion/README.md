@@ -7,4 +7,4 @@ http://imgur.com/3TJkV -> http://i.imgur.com/3TJkV.jpg<br/>
 http://www.quickmeme.com/meme/3q3uah/ -> http://i.qkme.me/3q3uah.jpg
 
 
-Currently supports imgur and quickmeme.
+Currently supports imgur, quickmeme, memegenerator and memecrunch.
