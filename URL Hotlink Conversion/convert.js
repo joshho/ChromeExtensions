@@ -35,7 +35,7 @@ function(details) {
 	}
 }
 ,{urls: [
-	"http://www.quickmeme.com/*"
+	"http://www.quickmeme.com/meme/*"
 	]
  },
  ["blocking"]);
