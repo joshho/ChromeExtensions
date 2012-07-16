@@ -1,7 +1,7 @@
 var filterURLs = [
 	"http://imgur.com/*", 
 	"http://www.quickmeme.com/meme/*", 
-	"http://memegenerator.net/instance/*",
+	"http://*.memegenerator.net/instance/*",
 	"http://memecrunch.com/meme/*"
 ];
 

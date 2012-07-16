@@ -6,6 +6,6 @@
   "background": { "scripts": ["convert.js"] },
   "permissions": [
     "webRequest", "webRequestBlocking",
-    "http://imgur.com/", "http://www.quickmeme.com/", "http://memegenerator.net/", "http://memecrunch.com/"
+    "http://imgur.com/", "http://www.quickmeme.com/", "http://*.memegenerator.net/", "http://memegenerator.net/", "http://memecrunch.com/"
   ]
 }
